@@ -1,0 +1,19 @@
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.content {
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 2em;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: rgb(97, 96, 96);
+}
+
